@@ -1,17 +1,14 @@
-# Python Visualization Libraries Guide
+# ShadowFox Data Science Internship
 
 ## Overview
 
-This project provides a comprehensive guide to Python visualization libraries including Matplotlib, Seaborn, Plotly, Bokeh, and Pandas Visualization.
+This repository contains the projects completed as part of the ShadowFox Data Science Internship. The projects demonstrate data analysis, visualization, and practical applications of Python in data science.
 
-## Objectives
+## Projects
 
-* Understand different Python visualization libraries.
-* Learn various graph types and their applications.
-* Compare libraries based on usability, interactivity, and performance.
-* Provide practical code examples for data visualization.
+### 1. Python Visualization Libraries Guide
 
-## Libraries Covered
+A comprehensive guide covering major Python visualization libraries:
 
 * Matplotlib
 * Seaborn
@@ -19,29 +16,39 @@ This project provides a comprehensive guide to Python visualization libraries in
 * Bokeh
 * Pandas Visualization
 
-## Features
+**Key Features:**
 
-* Detailed explanations of each library
-* Multiple graph examples
-* Practical code snippets
-* Comparison tables
-* Best use-case recommendations
+* Library overviews
+* Graph types and use cases
+* Code examples
+* Comparative analysis
+
+### 2. Delhi Air Quality Index (AQI) Analysis
+
+A data analysis project focused on Delhi's Air Quality Index (AQI).
+
+**Key Features:**
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* AQI trend visualization
+* Insights into air pollution patterns
 
 ## Technologies Used
 
 * Python
+* Pandas
+* NumPy
 * Matplotlib
 * Seaborn
-* Plotly
-* Bokeh
-* Pandas
+* Jupyter Notebook
 
 ## Author
 
 Vaibhav Kumar
-B.Tech Electronics and Communication Engineering
-Central University of Jammu
+B.Tech (ECE), Central University of Jammu
 
 ## Internship
 
-ShadowFox Data Science Internship
+ShadowFox Data Science Internship 2026
+
